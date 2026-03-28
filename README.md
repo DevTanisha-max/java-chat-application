@@ -5,7 +5,7 @@ Tanisha Sharma
 
 Project Description  
 
-This project is a real-time chat application created using Java Socket Programming. It allows communication between a client and server over a network using both Command Line Interface (CLI) and Graphical User Interface (GUI).  
+This project is a real-time chat application developed using Java Socket Programming. It enables communication between a client and server over a network using both Command Line Interface (CLI) and Graphical User Interface (GUI).  
 
 The application showcases fundamental networking concepts such as TCP communication, multithreading, and GUI development using Swing.  
 

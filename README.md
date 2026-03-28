@@ -17,6 +17,13 @@ Features
 - Simple and user-friendly interface  
 - Exit command to safely end connection  
 
+
+GUI Preview
+
+![Chat Application Screenshot](screenshot.png)
+
+
+
 Technologies Used  
 - Java  
 - Socket Programming (TCP/IP)  

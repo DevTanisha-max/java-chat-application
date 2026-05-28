@@ -137,7 +137,7 @@ Tanisha Sharma ([@DevTanisha-max](https://github.com/DevTanisha-max))
 | Project  | Java Chat Application                 |
 
 
-### What I Built (Solo Project):
+## 🚀 Key Deliverables
 
 #### 🔧 Backend Logic
 - Socket programming for client-server communication
